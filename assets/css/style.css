@@ -118,6 +118,7 @@ aside {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+    max-height: 150px;
 }
 
 footer {
